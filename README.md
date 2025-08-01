@@ -1,3 +1,5 @@
+https://youtu.be/eJNGKyuW3iU - video demo
+
 # Modular Yoga Session App
 
 A Flutter-based guided yoga session app that plays synchronized audio and image sequences for yoga poses. Users can preview poses, set custom loop counts for repeated segments, and enjoy optional background music with volume control.
