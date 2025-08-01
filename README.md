@@ -1,16 +1,30 @@
-# modular_yoga_session_app
+# Modular Yoga Session App
 
-Internship _Task
+A Flutter-based guided yoga session app that plays synchronized audio and image sequences for yoga poses. Users can preview poses, set custom loop counts for repeated segments, and enjoy optional background music with volume control.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- **Custom Loop Count**: Choose how many times to repeat a loop-based yoga segment.
+- 🖼**Image + Audio Sync**: Poses display in sync with instructional audio.
+- **Background Music**: Optional ambient music with adjustable volume.
+- ⏯**Play/Pause Control**: Pause and resume sessions anytime.
+- **Pose Preview**: View all poses in a carousel before starting.
+- **Stylish UI**: Clean, red-themed design with background image on the home screen.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter SDK installed
+
+Android Studio 
+
+Android/iOS Emulator or Device
+
+🛠️ Tech Stack
+
+Flutter & Dart
+
+audioplayers for audio playback
+
+JSON-based configuration for modular sessions
