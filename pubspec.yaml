@@ -1,0 +1,28 @@
+name: modular_yoga_session_app
+description: Internship _Task
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  audioplayers: ^5.2.1     # For playing pose audio
+  provider: ^6.1.1          # For state management (e.g. play/pause)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/poses.json
+    - assets/images/
+    - assets/audio/

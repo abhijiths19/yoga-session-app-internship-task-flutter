@@ -1,0 +1,32 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+pubspec.lock
+
+# Build outputs
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/GeneratedPluginRegistrant.java
+
+# IDE related
+.idea/
+.vscode/
+*.iml
+
+# Keystore (for Android app signing)
+key.properties
+**/*.jks
+**/*.keystore
+
+# macOS and Linux system files
+.DS_Store
+*.swp
